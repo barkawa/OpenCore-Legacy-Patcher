@@ -21,7 +21,7 @@ Here we'll select Build and Install OpenCore and start building:
 | :--- | :--- |
 | ![](../images/OCLP-GUI-Build-Start.png) | ![OCLP GUI Build Finished](../images/OCLP-GUI-Build-Finished.png) |
 
-Once it finishes building, you'll want to select the Install OpenCore button:
+Once it finishes building, you'll want to select the Install to disk button. For the disk select the macOS installer drive you created earlier.
 
 * If you created a macOS USB manually and don't see it listed, make sure it's either formatted as GUID/GPT or has a FAT32 partition for OpenCore to reside on.
 
